@@ -1,0 +1,37 @@
+# Core
+python-dotenv
+numpy
+pandas
+
+# Crawling
+requests
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+playwright
+pypdf
+
+# LangChain & LLM & Embeddings
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+openai
+tiktoken
+
+# ML / Models
+scikit-learn
+torch
+transformers
+sentence-transformers
+huggingface-hub
+
+# API endpoints
+fastapi
+uvicorn[standard]
+
+# UI
+streamlit
